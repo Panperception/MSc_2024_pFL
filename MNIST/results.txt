@@ -1,0 +1,200 @@
+Training on client 7: 100%|██████████| 2/2 [00:03<00:00,  1.62s/it]
+Round 1, Test Acc: 0.1382
+Training on client 4: 100%|██████████| 2/2 [00:18<00:00,  9.38s/it]
+Round 2, Test Acc: 0.3642
+Training on client 6: 100%|██████████| 2/2 [00:01<00:00,  1.34it/s]
+Round 3, Test Acc: 0.4265
+Training on client 9: 100%|██████████| 2/2 [00:35<00:00, 17.69s/it]
+Round 4, Test Acc: 0.5222
+Training on client 5: 100%|██████████| 2/2 [00:06<00:00,  3.11s/it]
+Round 5, Test Acc: 0.5386
+Training on client 5: 100%|██████████| 2/2 [00:04<00:00,  2.40s/it]
+Round 6, Test Acc: 0.5158
+Training on client 8: 100%|██████████| 2/2 [00:23<00:00, 11.70s/it]
+Round 7, Test Acc: 0.4987
+Training on client 7: 100%|██████████| 2/2 [00:03<00:00,  1.64s/it]
+Round 8, Test Acc: 0.6011
+Training on client 9: 100%|██████████| 2/2 [00:18<00:00,  9.38s/it]
+Round 9, Test Acc: 0.6278
+Training on client 7: 100%|██████████| 2/2 [00:34<00:00, 17.31s/it]
+Round 10, Test Acc: 0.6269
+Training on client 8: 100%|██████████| 2/2 [00:14<00:00,  7.42s/it]
+Round 11, Test Acc: 0.6658
+Training on client 3: 100%|██████████| 2/2 [00:27<00:00, 13.80s/it]
+Round 12, Test Acc: 0.6710
+Training on client 4: 100%|██████████| 2/2 [00:18<00:00,  9.34s/it]
+Round 13, Test Acc: 0.6677
+Training on client 5: 100%|██████████| 2/2 [00:14<00:00,  7.36s/it]
+Round 14, Test Acc: 0.6761
+Training on client 9: 100%|██████████| 2/2 [00:28<00:00, 14.49s/it]
+Round 15, Test Acc: 0.6795
+Training on client 3: 100%|██████████| 2/2 [00:38<00:00, 19.28s/it]
+Round 16, Test Acc: 0.6982
+Training on client 8: 100%|██████████| 2/2 [00:15<00:00,  7.58s/it]
+Round 17, Test Acc: 0.7064
+Training on client 6: 100%|██████████| 2/2 [00:16<00:00,  8.42s/it]
+Round 18, Test Acc: 0.7068
+Training on client 5: 100%|██████████| 2/2 [00:31<00:00, 15.85s/it]
+Round 19, Test Acc: 0.7040
+Training on client 9: 100%|██████████| 2/2 [00:28<00:00, 14.36s/it]
+Round 20, Test Acc: 0.7078
+Training on client 9: 100%|██████████| 2/2 [00:04<00:00,  2.35s/it]
+Round 21, Test Acc: 0.7035
+Training on client 7: 100%|██████████| 2/2 [00:26<00:00, 13.33s/it]
+Round 22, Test Acc: 0.7154
+Training on client 7: 100%|██████████| 2/2 [00:16<00:00,  8.50s/it]
+Round 23, Test Acc: 0.7210
+Training on client 3: 100%|██████████| 2/2 [00:38<00:00, 19.38s/it]
+Round 24, Test Acc: 0.7262
+Training on client 9: 100%|██████████| 2/2 [00:05<00:00,  2.93s/it]
+Round 25, Test Acc: 0.7310
+Training on client 8: 100%|██████████| 2/2 [00:14<00:00,  7.13s/it]
+Round 26, Test Acc: 0.7327
+Training on client 3: 100%|██████████| 2/2 [00:29<00:00, 14.76s/it]
+Round 27, Test Acc: 0.7331
+Training on client 9: 100%|██████████| 2/2 [00:09<00:00,  4.69s/it]
+Round 28, Test Acc: 0.7289
+Training on client 9: 100%|██████████| 2/2 [00:08<00:00,  4.06s/it]
+Round 29, Test Acc: 0.7255
+Training on client 6: 100%|██████████| 2/2 [00:31<00:00, 15.51s/it]
+Round 30, Test Acc: 0.7321
+Training on client 3: 100%|██████████| 2/2 [00:44<00:00, 22.20s/it]
+Round 31, Test Acc: 0.7427
+Training on client 8: 100%|██████████| 2/2 [00:25<00:00, 12.54s/it]
+Round 32, Test Acc: 0.7425
+Training on client 9: 100%|██████████| 2/2 [00:18<00:00,  9.20s/it]
+Round 33, Test Acc: 0.7418
+Training on client 9: 100%|██████████| 2/2 [00:04<00:00,  2.48s/it]
+Round 34, Test Acc: 0.7386
+Training on client 7: 100%|██████████| 2/2 [00:35<00:00, 17.98s/it]
+Round 35, Test Acc: 0.7455
+Training on client 7: 100%|██████████| 2/2 [00:27<00:00, 13.74s/it]
+Round 36, Test Acc: 0.7495
+Training on client 7: 100%|██████████| 2/2 [00:08<00:00,  4.02s/it]
+Round 37, Test Acc: 0.7496
+Training on client 8: 100%|██████████| 2/2 [00:25<00:00, 12.51s/it]
+Round 38, Test Acc: 0.7504
+Training on client 8: 100%|██████████| 2/2 [00:14<00:00,  7.15s/it]
+Round 39, Test Acc: 0.7508
+Training on client 8: 100%|██████████| 2/2 [00:01<00:00,  1.26it/s]
+Round 40, Test Acc: 0.7456
+Training on client 7: 100%|██████████| 2/2 [00:16<00:00,  8.18s/it]
+Round 41, Test Acc: 0.7562
+Training on client 9: 100%|██████████| 2/2 [00:05<00:00,  2.96s/it]
+Round 42, Test Acc: 0.7536
+Training on client 6: 100%|██████████| 2/2 [00:04<00:00,  2.41s/it]
+Round 43, Test Acc: 0.7539
+Training on client 8: 100%|██████████| 2/2 [00:02<00:00,  1.07s/it]
+Round 44, Test Acc: 0.7534
+Training on client 9: 100%|██████████| 2/2 [00:22<00:00, 11.37s/it]
+Round 45, Test Acc: 0.7547
+Training on client 8: 100%|██████████| 2/2 [00:02<00:00,  1.05s/it]
+Round 46, Test Acc: 0.7544
+Training on client 2: 100%|██████████| 2/2 [00:41<00:00, 20.89s/it]
+Round 47, Test Acc: 0.7581
+Training on client 8: 100%|██████████| 2/2 [00:25<00:00, 12.57s/it]
+Round 48, Test Acc: 0.7584
+Training on client 1: 100%|██████████| 2/2 [00:55<00:00, 27.95s/it]
+Round 49, Test Acc: 0.7626
+Training on client 7: 100%|██████████| 2/2 [00:05<00:00,  2.61s/it]
+Round 50, Test Acc: 0.7631
+Training on client 6: 100%|██████████| 2/2 [00:15<00:00,  7.66s/it]
+Round 51, Test Acc: 0.7634
+Training on client 5: 100%|██████████| 2/2 [00:24<00:00, 12.45s/it]
+Round 52, Test Acc: 0.7646
+Training on client 7: 100%|██████████| 2/2 [00:27<00:00, 13.51s/it]
+Round 53, Test Acc: 0.7670
+Training on client 6: 100%|██████████| 2/2 [00:32<00:00, 16.36s/it]
+Round 54, Test Acc: 0.7646
+Training on client 8: 100%|██████████| 2/2 [00:30<00:00, 15.42s/it]
+Round 55, Test Acc: 0.7665
+Training on client 7: 100%|██████████| 2/2 [00:16<00:00,  8.45s/it]
+Round 56, Test Acc: 0.7722
+Training on client 9: 100%|██████████| 2/2 [00:08<00:00,  4.10s/it]
+Round 57, Test Acc: 0.7699
+Training on client 2: 100%|██████████| 2/2 [00:38<00:00, 19.23s/it]
+Round 58, Test Acc: 0.7720
+Training on client 6: 100%|██████████| 2/2 [00:01<00:00,  1.34it/s]
+Round 59, Test Acc: 0.7704
+Training on client 9: 100%|██████████| 2/2 [00:05<00:00,  2.98s/it]
+Round 60, Test Acc: 0.7708
+Training on client 7: 100%|██████████| 2/2 [00:32<00:00, 16.41s/it]
+Round 61, Test Acc: 0.7719
+Training on client 8: 100%|██████████| 2/2 [00:23<00:00, 11.86s/it]
+Round 62, Test Acc: 0.7730
+Training on client 4: 100%|██████████| 2/2 [00:36<00:00, 18.24s/it]
+Round 63, Test Acc: 0.7743
+Training on client 2: 100%|██████████| 2/2 [00:44<00:00, 22.26s/it]
+Round 64, Test Acc: 0.7747
+Training on client 8: 100%|██████████| 2/2 [00:04<00:00,  2.32s/it]
+Round 65, Test Acc: 0.7758
+Training on client 6: 100%|██████████| 2/2 [00:14<00:00,  7.22s/it]
+Round 66, Test Acc: 0.7763
+Training on client 6: 100%|██████████| 2/2 [00:14<00:00,  7.28s/it]
+Round 67, Test Acc: 0.7763
+Training on client 4: 100%|██████████| 2/2 [00:28<00:00, 14.14s/it]
+Round 68, Test Acc: 0.7785
+Training on client 6: 100%|██████████| 2/2 [00:02<00:00,  1.01s/it]
+Round 69, Test Acc: 0.7773
+Training on client 7: 100%|██████████| 2/2 [00:16<00:00,  8.43s/it]
+Round 70, Test Acc: 0.7797
+Training on client 4: 100%|██████████| 2/2 [00:28<00:00, 14.35s/it]
+Round 71, Test Acc: 0.7793
+Training on client 7: 100%|██████████| 2/2 [00:04<00:00,  2.37s/it]
+Round 72, Test Acc: 0.7797
+Training on client 6: 100%|██████████| 2/2 [00:06<00:00,  3.01s/it]
+Round 73, Test Acc: 0.7782
+Training on client 6: 100%|██████████| 2/2 [00:25<00:00, 12.53s/it]
+Round 74, Test Acc: 0.7796
+Training on client 3: 100%|██████████| 2/2 [00:38<00:00, 19.28s/it]
+Round 75, Test Acc: 0.7818
+Training on client 5: 100%|██████████| 2/2 [00:14<00:00,  7.48s/it]
+Round 76, Test Acc: 0.7825
+Training on client 5: 100%|██████████| 2/2 [00:25<00:00, 12.72s/it]
+Round 77, Test Acc: 0.7832
+Training on client 7: 100%|██████████| 2/2 [00:34<00:00, 17.32s/it]
+Round 78, Test Acc: 0.7833
+Training on client 7: 100%|██████████| 2/2 [00:33<00:00, 16.82s/it]
+Round 79, Test Acc: 0.7841
+Training on client 6: 100%|██████████| 2/2 [00:16<00:00,  8.14s/it]
+Round 80, Test Acc: 0.7843
+Training on client 4: 100%|██████████| 2/2 [00:28<00:00, 14.20s/it]
+Round 81, Test Acc: 0.7845
+Training on client 9: 100%|██████████| 2/2 [00:35<00:00, 17.86s/it]
+Round 82, Test Acc: 0.7844
+Training on client 6: 100%|██████████| 2/2 [00:14<00:00,  7.29s/it]
+Round 83, Test Acc: 0.7868
+Training on client 5: 100%|██████████| 2/2 [00:15<00:00,  7.82s/it]
+Round 84, Test Acc: 0.7877
+Training on client 9: 100%|██████████| 2/2 [00:17<00:00,  8.92s/it]
+Round 85, Test Acc: 0.7868
+Training on client 9: 100%|██████████| 2/2 [00:06<00:00,  3.18s/it]
+Round 86, Test Acc: 0.7849
+Training on client 8: 100%|██████████| 2/2 [00:24<00:00, 12.46s/it]
+Round 87, Test Acc: 0.7859
+Training on client 8: 100%|██████████| 2/2 [00:04<00:00,  2.23s/it]
+Round 88, Test Acc: 0.7842
+Training on client 7: 100%|██████████| 2/2 [00:03<00:00,  1.66s/it]
+Round 89, Test Acc: 0.7859
+Training on client 4: 100%|██████████| 2/2 [00:19<00:00,  9.63s/it]
+Round 90, Test Acc: 0.7884
+Training on client 6: 100%|██████████| 2/2 [00:04<00:00,  2.27s/it]
+Round 91, Test Acc: 0.7871
+Training on client 8: 100%|██████████| 2/2 [00:32<00:00, 16.05s/it]
+Round 92, Test Acc: 0.7883
+Training on client 9: 100%|██████████| 2/2 [00:28<00:00, 14.20s/it]
+Round 93, Test Acc: 0.7903
+Training on client 2: 100%|██████████| 2/2 [00:38<00:00, 19.15s/it]
+Round 94, Test Acc: 0.7909
+Training on client 3: 100%|██████████| 2/2 [00:44<00:00, 22.13s/it]
+Round 95, Test Acc: 0.7923
+Training on client 6: 100%|██████████| 2/2 [00:23<00:00, 11.81s/it]
+Round 96, Test Acc: 0.7923
+Training on client 3: 100%|██████████| 2/2 [00:46<00:00, 23.02s/it]
+Round 97, Test Acc: 0.7930
+Training on client 8: 100%|██████████| 2/2 [00:01<00:00,  1.51it/s]
+Round 98, Test Acc: 0.7921
+Training on client 4: 100%|██████████| 2/2 [00:28<00:00, 14.22s/it]
+Round 99, Test Acc: 0.7925
+Training on client 4: 100%|██████████| 2/2 [00:17<00:00,  8.97s/it]
+Round 100, Test Acc: 0.7932
