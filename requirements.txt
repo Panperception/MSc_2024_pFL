@@ -1,0 +1,9 @@
+numpy
+pynvml
+tqdm
+pandas
+munch
+torch
+torchvision
+scikit-learn
+Pyfhel
